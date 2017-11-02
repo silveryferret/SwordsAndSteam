@@ -4,11 +4,7 @@ Evennia settings file.
 The available options are found in the default settings file found
 here:
 
-<<<<<<< HEAD
 c:\swords and steam\evennia\evennia\settings_default.py
-=======
-c:\users\impy\documents\github\swordsandsteam\evennia\evennia\settings_default.py
->>>>>>> 5e1b6fd5d04cdcee3e23ad57d0e87400048e2191
 
 Remember:
 
@@ -36,7 +32,7 @@ from evennia.settings_default import *
 ######################################################################
 
 # This is the name of your game. Make it catchy!
-SERVERNAME = "SwordsAndSteam"
+SERVERNAME = "Swords And Steam"
 
 # Server ports. If enabled and marked as "visible", the port
 # should be visible to the outside world on a production server.
@@ -59,10 +55,7 @@ WEBSOCKET_CLIENT_ENABLED = True
 WEBSOCKET_CLIENT_PORT = 4005
 # Internal Server-Portal port. Not visible.
 AMP_PORT = 4006
-<<<<<<< HEAD
 GUEST_ENABLED = True
-=======
->>>>>>> 5e1b6fd5d04cdcee3e23ad57d0e87400048e2191
 
 ######################################################################
 # Settings given in secret_settings.py override those in this file.
