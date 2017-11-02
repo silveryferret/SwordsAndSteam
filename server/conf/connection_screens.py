@@ -26,8 +26,11 @@ CONNECTION_SCREEN = """
       |wconnect <username> <password>|n
  If you need to create an account, type (without the <>'s):
       |wcreate <username> <password>|n
+<<<<<<< HEAD
  If you want to connect as a guest, type
       |wconnect guest
+=======
+>>>>>>> 5e1b6fd5d04cdcee3e23ad57d0e87400048e2191
 
  If you have spaces in your username, enclose it in quotes.
  Enter |whelp|n for more info. |wlook|n will re-show this screen.
